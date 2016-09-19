@@ -1,1 +1,2 @@
-"# pockelator" 
+# pockelator
+{SpringBoot, AngularJS, MySQL}
